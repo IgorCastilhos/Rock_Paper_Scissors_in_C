@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/projects/rock_paper_scissors/cmake-build-debug/CMakeFiles/rock_paper_scissors.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/rock_paper_scissors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/rock_paper_scissors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

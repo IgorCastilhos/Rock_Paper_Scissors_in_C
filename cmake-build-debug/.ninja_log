@@ -1,0 +1,17 @@
+# ninja log v5
+0	721	7121906520601056	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+724	958	7121906522950755	rock_paper_scissors.exe	607fb3cb6428ec37
+3	283	7121906632128282	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+283	374	7121906633012504	rock_paper_scissors.exe	607fb3cb6428ec37
+3	288	7121907252452002	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+288	378	7121907253328240	rock_paper_scissors.exe	607fb3cb6428ec37
+3	377	7121908668334447	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+378	480	7121908669308386	rock_paper_scissors.exe	607fb3cb6428ec37
+3	349	7121910186410719	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+350	442	7121910187296246	rock_paper_scissors.exe	607fb3cb6428ec37
+3	302	7121912074288937	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+303	392	7121912075159277	rock_paper_scissors.exe	607fb3cb6428ec37
+3	400	7121914065859149	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+401	525	7121914067076686	rock_paper_scissors.exe	607fb3cb6428ec37
+3	304	7121919727873507	CMakeFiles/rock_paper_scissors.dir/main.cpp.obj	41e1418384eb0317
+304	400	7121919728795652	rock_paper_scissors.exe	607fb3cb6428ec37
